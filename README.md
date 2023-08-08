@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#introduction">Introduction</a> •
   <a href="#features">Features</a> •
-  <a href="rerequisites">Prerequisites</a> •
+  <a href="prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
   <a href="#credits">Technologies Used</a> •
   <a href="#contributing">Contributing</a> •
