@@ -78,7 +78,7 @@ $ yarn android
 
 ## Technologies Used
 
-* React Native: A powerful JavaScript framework for building cross-platform mobile applications, allowing us to develop for both iOS and Android from a single codebase.
+* React Native: A powerful JavaScript framework for building cross-platform mobile applications, allowing programmers to develop for both iOS and Android from a single codebase.
 * Firebase: A comprehensive platform by Google that provides authentication services and real-time database capabilities, ensuring secure user sign-in and seamless data updates.
 * Redux: A state management library that helps manage the application's global state, enabling efficient data flow and seamless updates.
 * YELP API: Integration with the YELP API allows us to fetch restaurant data, including details about menus, items, and customer reviews.
