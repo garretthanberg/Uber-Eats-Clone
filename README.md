@@ -72,6 +72,10 @@ $ yarn ios
 $ yarn android
 ```
 
+<p align="center">
+  <img src="https://github.com/garretthanberg/Uber-Eats-Clone/assets/115447682/9be5267e-02e3-472b-8548-dae73e0eeaf2" alt="screenshot">
+</p>
+
 ## Technologies Used
 
 * React Native: A powerful JavaScript framework for building cross-platform mobile applications, allowing us to develop for both iOS and Android from a single codebase.
@@ -81,10 +85,6 @@ $ yarn android
 * Google API: Integration with Google Maps API provides location services, map functionalities, and geolocation-based restaurant search.
 * Yarn: A fast and reliable package manager for managing project dependencies, used to install and manage packages required for the app.
 * LottieView: A library that allows us to add eye-catching animations to the app, enhancing the user interface and overall experience.
-
-<p align="center">
-  <img src="https://github.com/garretthanberg/Uber-Eats-Clone/assets/115447682/9be5267e-02e3-472b-8548-dae73e0eeaf2" alt="screenshot">
-</p>
 
 ## Contributing
 
