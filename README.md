@@ -38,7 +38,7 @@ Before you proceed, make sure you have the following tools and technologies inst
     React Native CLI (https://reactnative.dev/docs/environment-setup)
     Yarn package manager (https://yarnpkg.com)
     Firebase account for authentication and database setup (https://firebase.google.com)
-    Google API Key for Maps integration (https://developers.google.com/maps/documentation/javascript/get-api-key)
+    Google API Key for location search integration (https://developers.google.com/maps/documentation/javascript/get-api-key)
     YELP API Key for restaurant data (https://www.yelp.com/developers/documentation/v3/authentication)
 
 ## Installation
