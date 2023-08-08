@@ -102,7 +102,7 @@ This project is licensed under the MIT License.
 
 ---
 
-I hope you enjoy using my Instagram clone! If you have any questions or need assistance, feel free to contact me.
+I hope you enjoy using my Uber Eats clone! If you have any questions or need assistance, feel free to contact me.
 
 > Portfolio [garretthanberg.com](https://www.garretthanberg.com) &nbsp;&middot;&nbsp;
 > GitHub [@garretthanberg](https://github.com/garretthanberg) &nbsp;&middot;&nbsp;
