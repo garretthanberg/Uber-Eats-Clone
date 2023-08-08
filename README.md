@@ -82,7 +82,7 @@ $ yarn android
 * Firebase: A comprehensive platform by Google that provides authentication services and real-time database capabilities, ensuring secure user sign-in and seamless data updates.
 * Redux: A state management library that helps manage the application's global state, enabling efficient data flow and seamless updates.
 * YELP API: Integration with the YELP API allows us to fetch restaurant data, including details about menus, items, and customer reviews.
-* Google API: Integration with Google Maps API provides location services, map functionalities, and geolocation-based restaurant search.
+* Google API: Integration with Google Maps API provides location services and geolocation-based restaurant search.
 * Yarn: A fast and reliable package manager for managing project dependencies, used to install and manage packages required for the app.
 * LottieView: A library that allows us to add eye-catching animations to the app, enhancing the user interface and overall experience.
 
