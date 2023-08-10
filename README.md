@@ -8,7 +8,7 @@
   <a href="#features">Features</a> •
   <a href="prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
-  <a href="#credits">Technologies Used</a> •
+  <a href="#technologiesused">Technologies Used</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
