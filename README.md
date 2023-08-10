@@ -30,6 +30,7 @@ Please note that this application is meant for educational and learning purposes
 * Order Placement: Effortlessly select items from a restaurant and place food delivery orders.
 * Engaging Animations: Eye-catching animations powered by LottieView for an immersive user experience.
 
+<a id="prerequisites"></a>
 ## Prerequisites
 
 Before you proceed, make sure you have the following tools and technologies installed on your system:
@@ -76,6 +77,7 @@ $ yarn android
   <img src="https://github.com/garretthanberg/Uber-Eats-Clone/assets/115447682/9be5267e-02e3-472b-8548-dae73e0eeaf2" alt="screenshot">
 </p>
 
+<a id="technologiesused"></a>
 ## Technologies Used
 
 * React Native: A powerful JavaScript framework for building cross-platform mobile applications, allowing programmers to develop for both iOS and Android from a single codebase.
