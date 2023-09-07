@@ -1,5 +1,5 @@
 <h1 align="center">
-  Uber Eats Clone with React Native, Firebase, Redux, Google API and YELP API.
+  Uber Eats Clone with React Native, Firebase, Redux, Google API and YELP API
   <br>
 </h1>
 
